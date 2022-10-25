@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JdaDong
 - 👀 I’m interested in AI/BIGDATA/Store
+- full stack big data
 - 🌱 I’m currently learning BlockChain
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
